@@ -1,10 +1,10 @@
-## JSGame Detona Ralph
+## Detona Ralph Game
 
 <p align="center">
   <img src="./src/images/logo.png" alt="JSGame Detona Ralph Logo" width=300 >
 </p>
 
-Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". 
+Bem-vindo ao **Detona Ralph Game**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". 
 
 ### Tecnologias Utilizadas
 
@@ -14,7 +14,7 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 
 ### Funcionalidades Incríveis
 
-- **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
+- **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontra.
 
 ### Como Jogar
 
